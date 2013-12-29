@@ -30,9 +30,7 @@
         android:layout_marginTop="20dp"
         android:contentDescription="@string/ada_lovelace_photo_desc" />
     
-    <!--
-    TODO: scroll
-     -->
+
      <ScrollView 
          android:layout_width="match_parent"
          android:layout_height="wrap_content"
